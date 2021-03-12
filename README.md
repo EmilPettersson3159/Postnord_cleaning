@@ -4,6 +4,7 @@ This is one of the earlier projects I made, in which I prepared a dataset by col
 - A Tableau workbook file (containing the dashboard and all the sheets as proof)
 - The data in its raw form
 - The final, cleaned data in a CSV file
+- A short video presentation of me going through the dashboard's features
 
 Link to dataset: https://drive.google.com/drive/folders/18vJswN8ea7cjMcnbjQUaTxRT6NK7t6dt?usp=sharing
 It should be noted that the dataset is quite big in size, around 2gb I believe.
